@@ -112,6 +112,13 @@ With more time, I would:
 
 ```bash
 relax-takehome/
+├── data/
+│   ├── takehome_user_engagement.csv
+│   └── takehome_users.csv
+│
 ├── relax_analysis.ipynb
 ├── README.md
-└── requirements.txt
+├── Relax_Take-Home_Report.pdf
+├── requirements.txt
+│
+├── .gitignore
